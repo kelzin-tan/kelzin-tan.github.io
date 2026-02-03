@@ -121,3 +121,6 @@
   .pdf-link:hover{
     color: var(--text);
   }
+  .margin-top {
+    margin-top: 0.5rem;
+  }
